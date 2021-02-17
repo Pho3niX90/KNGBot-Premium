@@ -52,6 +52,7 @@ A Robust discord bot, with multiple features and support for multiple Rust serve
     * ![img_7.png](img_7.png)
 14. Message analysis to automatically reply to users, based on keywords.
 15. Ticketing system
+    ![Sample](https://i.gyazo.com/3121c7013ba54e26bcccb467d97477c9.gif)
     * Users can create a ticket.
     * They can be prompted predefined questions.
     * Can setup to only ping staff once questionnaire is done.
